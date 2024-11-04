@@ -1,0 +1,8 @@
+^ubuntu-clang$
+^ubuntu-gcc$
+^README\.md$
+^LICENSE\.md$
+^\.github$
+^\.vscode$
+^r-stable-ubuntu-clang$
+^r-stable-ubuntu-gcc$
